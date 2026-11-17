@@ -18,4 +18,4 @@ Proyecto desarrollado para la asignatura **Interacción Humano-Computador** (Esc
 * **Hito 4 (Diseño visual, prototipado y cierre — Puntos 7, 8 y 9):** Aplicación de estándares de accesibilidad AAA (botones de 56×56 px, tipografía ≥18 pt), elaboración de pantallas del prototipo, compilación del informe final y publicación del repositorio colaborativo.
 
 ## Enlace al Prototipo Interactivo
-* [Ver prototipo navegable de MediClaro](PROTOTIPOOOOO)
+* [Ver prototipo navegable de MediClaro](https://www.figma.com/make/HBjBUgTK4tBIcEsmeMzBMS/Accessible-Medication-Reminder-App?fullscreen=1&t=WOFIZyqY7jfCqa4R-1&code-node-id=0-6)
